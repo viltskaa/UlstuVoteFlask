@@ -1,0 +1,1 @@
+from .teacher_handler import teacher_blueprint
